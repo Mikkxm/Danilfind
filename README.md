@@ -57,7 +57,7 @@
     🛑 ПРОПАЛ РЕБЕНОК – ПОМОГИТЕ НАЙТИ ДАНИЛА! 🛑
   </header>
   <main>
-    <img src="missing-person.jpg" alt="Пропавший ребенок Данил">
+    <img src="missing-person-poster-design-template-4cf21697513081ba2d1b9d9b9563e53d_screen (0-00-00-52).jpg" alt="Пропавший ребенок Данил">
     <div class="info">
       <p><strong>📅 Дата исчезновения:</strong> вчера</p>
       <p><strong>🧒 Имя:</strong> Данил</p>
